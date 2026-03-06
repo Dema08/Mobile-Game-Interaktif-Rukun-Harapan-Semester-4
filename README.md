@@ -1,3 +1,8 @@
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![Dart](https://img.shields.io/badge/Dart-Language-blue)
+![Education](https://img.shields.io/badge/App-Education-green)
+![Status](https://img.shields.io/badge/Status-Development-orange)
+
 # 🎉 Numerigo – Petualangan Belajar Angka untuk Si Kecil
 
 **Numerigo** adalah aplikasi edukatif berbasis **mobile** yang dirancang khusus untuk anak usia dini (**TK & PAUD**).  
