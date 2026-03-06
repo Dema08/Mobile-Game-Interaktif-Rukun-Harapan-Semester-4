@@ -1,0 +1,59 @@
+name: NumeriGo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.3.0
+  flutter_lints: ^4.0.0
+  sqflite: ^2.0.0
+  shared_preferences: ^2.2.2
+  get: ^4.6.6
+  intl: ^0.19.0
+  gap: ^3.0.1
+  shimmer: ^3.0.0
+  headup_loading: ^1.0.5
+  flutter_launcher_icons: ^0.14.3
+  flutter_animate: ^4.5.2
+  animate_do: ^3.0.2
+  animated_text_kit: ^4.2.2
+  # vibration: ^1.7.5
+  lottie: ^3.0.0
+  mobile_scanner: ^7.0.0
+  flutter_staggered_animations: ^1.1.1
+  linear_progress_bar: "^1.2.0"
+  audioplayers: ^6.4.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/decors/
+    - assets/images/waves/
+    - assets/animation/book_animation.json
+    - assets/animation/hand_animation.json
+    - assets/animation/success.json
+    - assets/animation/try_again.json
+    - assets/audio/opening_meme.mp3
+    - assets/audio/victory.mp3
+    - assets/audio/hidup_jokowi.mp3
+    - assets/audio/soal_selesai.mp3
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo_sekolah.jpg"
+  min_sdk_android: 21

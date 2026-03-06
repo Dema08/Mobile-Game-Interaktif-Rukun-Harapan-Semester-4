@@ -1,0 +1,2 @@
+D:/nandita/aplikasi_game/android/app/.cxx/Debug/2c5m2p5j/x86/CMakeFiles/edit_cache.dir
+D:/nandita/aplikasi_game/android/app/.cxx/Debug/2c5m2p5j/x86/CMakeFiles/rebuild_cache.dir

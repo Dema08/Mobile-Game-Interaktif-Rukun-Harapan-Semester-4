@@ -1,0 +1,2 @@
+C:/Dev/SEM4/Mobile/aplikasi_game/android/app/.cxx/Debug/2a4r6733/x86/CMakeFiles/edit_cache.dir
+C:/Dev/SEM4/Mobile/aplikasi_game/android/app/.cxx/Debug/2a4r6733/x86/CMakeFiles/rebuild_cache.dir

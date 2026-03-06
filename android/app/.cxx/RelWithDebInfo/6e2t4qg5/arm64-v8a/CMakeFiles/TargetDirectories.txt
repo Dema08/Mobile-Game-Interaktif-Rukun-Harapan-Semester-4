@@ -1,0 +1,2 @@
+D:/Vito FIle/Tugas Kuliah/Aplikasi/Aplikasi_Android/aplikasi_game/android/app/.cxx/RelWithDebInfo/6e2t4qg5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Vito FIle/Tugas Kuliah/Aplikasi/Aplikasi_Android/aplikasi_game/android/app/.cxx/RelWithDebInfo/6e2t4qg5/arm64-v8a/CMakeFiles/rebuild_cache.dir

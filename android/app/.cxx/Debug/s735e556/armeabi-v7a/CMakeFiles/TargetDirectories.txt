@@ -1,0 +1,2 @@
+C:/Dev/SEM4/Mobile/Mobile-Game-Interaktif-Rukun-Harapan/android/app/.cxx/Debug/s735e556/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Dev/SEM4/Mobile/Mobile-Game-Interaktif-Rukun-Harapan/android/app/.cxx/Debug/s735e556/armeabi-v7a/CMakeFiles/rebuild_cache.dir
