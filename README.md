@@ -3,6 +3,17 @@
 ![Education](https://img.shields.io/badge/App-Education-green)
 ![Status](https://img.shields.io/badge/Status-Development-orange)
 
+# 👥 Our Team
+
+| Name | NIM | Instagram |
+|-----|-----|-----------|
+| M. Dien Vito Alivio Hidayat | E41231065 | @m.dien_vito |
+| Muhammad Yusron Kurniawan | E41231326 | @y.sron_ |
+| Dymas Ersa Ramadhan | E41231177 | @dymaser |
+| Dema Adzhani | E41231272 | @demadzh |
+| Nandita Putri Hanifa Jannah | E41231216 | @na_nditaaph |
+| Abdul Muqid | E41231328 | @muqid__ |
+
 # 🎉 Numerigo – Petualangan Belajar Angka untuk Si Kecil
 
 **Numerigo** adalah aplikasi edukatif berbasis **mobile** yang dirancang khusus untuk anak usia dini (**TK & PAUD**).  
